@@ -1,4 +1,4 @@
-export const dearLogo = require('../../assets/dearLogo.png') 
+export const dearLogo = require('../../assets/etc/dearLogo.png') 
 
 export const startButton = require('../../assets/button/startButton.png')
 
@@ -6,11 +6,11 @@ export const cameraButton = require('../../assets/button/cameraButton.png')
 
 export const completeButton = require('../../assets/button/completeButton.png')
 
-export const pinkFrame = require('../../assets/pinkFrame.png')
+export const pinkFrame = require('../../assets/etc/pinkFrame.png')
 
-export const leftDirection = require('../../assets/leftDirection.png')
+export const leftDirection = require('../../assets/etc/leftDirection.png')
 
-export const rightDirection = require('../../assets/rightDirection.png')
+export const rightDirection = require('../../assets/etc/rightDirection.png')
 
 export const images = [
     require('../../assets/frame/Frame1Shadow.png'),
